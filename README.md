@@ -6,9 +6,10 @@ This software is provided "as is" without warranty of any kind, express or impli
 
 Summary:
 - This repository includes the machine learning class assignments I completed in the Electrical & Computer Engineering department at Texas Tech University.
-- The assignments require the user to develop the algorithms from scratch meaning, there will either be very limited or no use of existing libraries. If 
-- The assignments were written in MATLAB. I achieved a score of 100% in all 6 of the assignments.
-- The assigments contain a mix of regression and classification algorithms. The contents of each assignment, including the algorithm utilized for solving the problem(s) is shared below under "Contents".
+- The assignments require the user to develop the algorithms from scratch meaning, there will either be very limited or no use of existing libraries. 
+- The assignments were solved with MATLAB.
+- I achieved a score of 100% in all 6 of the assignments.
+- The assigments contain a mix of regression and classification tasks. The contents of each assignment, including the algorithm utilized for solving the problem(s) is shared below under "Contents".
 
 Reason for Sharing:
 - I decided to make these assignments publicly available to help others learn the mathmetical principles of some of the core machine learning algorithms. 
